@@ -14,7 +14,7 @@ Import the module and use `getAccentColors()`. For example:
 ```js
 const AccentColors = require("windows-accent-colors");
 const colors = AccentColors.getAccentColors();
-console.log(`The color of sliders used in Windows 11 is: ${colors.accentLight2.hex}`);
+console.log(`The color of sliders in Windows 11 is: ${colors.accentLight2.hex}`);
 ```
 
 The function `getAccentColors()` will return an object of all derivative accent colors in RGB and Hex format. For example:
