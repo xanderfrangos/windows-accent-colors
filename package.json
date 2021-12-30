@@ -28,7 +28,7 @@
   "files": [
     "index.js",
     "binding.gyp",
-    "windows-accent-colors.cc",
+    "windows_accent_colors.cc",
     "example.js",
     "LICENSE",
     "README.md"
