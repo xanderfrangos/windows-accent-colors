@@ -9,6 +9,17 @@
     "install": "npm run rebuild"
   },
   "author": "xanderfrangos",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xanderfrangos/windows-accent-colors.git"
+  },
+  "keywords": [
+    "windows",
+    "colors",
+    "accent",
+    "node"
+  ],
+  "license": "MIT",
   "dependencies": {
     "bindings": "1.5.0",
     "node-addon-api": "3.1.0",
@@ -18,6 +29,8 @@
     "index.js",
     "binding.gyp",
     "windows-accent-colors.cc",
-    "example.js"
+    "example.js",
+    "LICENSE",
+    "README.md"
   ]
 }
