@@ -17,7 +17,7 @@ const colors = AccentColors.getAccentColors();
 console.log(`The color of sliders used in Windows 11 is: ${colors.accentLight2.hex}`);
 ```
 
-The function `getAccentColors()` will return an object of all derivitaive accent colors in RGB and Hex format. For example:
+The function `getAccentColors()` will return an object of all derivative accent colors in RGB and Hex format. For example:
 ```json
 {
   "accent": { "r": 232, "g": 17, "b": 35, "hex": "#e81123" },
