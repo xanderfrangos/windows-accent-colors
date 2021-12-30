@@ -1,0 +1,23 @@
+{
+  "name": "windows-accent-colors",
+  "version": "1.0.0",
+  "description": "Get user accent colors, including the derivative colors used by the Windows UI. (Windows 10+ only.)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example.js",
+    "rebuild": "node-gyp rebuild",
+    "install": "npm run rebuild"
+  },
+  "author": "xanderfrangos",
+  "dependencies": {
+    "bindings": "1.5.0",
+    "node-addon-api": "3.1.0",
+    "node-gyp": "7.1.2"
+  },
+  "files": [
+    "index.js",
+    "binding.gyp",
+    "windows-accent-colors.cc",
+    "example.js"
+  ]
+}
