@@ -1,6 +1,6 @@
 {
   "name": "windows-accent-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get user accent colors, including the derivative colors used by the Windows UI. (Windows 10+ only.)",
   "main": "index.js",
   "scripts": {
