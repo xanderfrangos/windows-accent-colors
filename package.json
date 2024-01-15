@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bindings": "1.5.0",
-    "node-addon-api": "3.1.0",
-    "node-gyp": "7.1.2"
+    "bindings": "^1.5.0",
+    "node-addon-api": "^7.0.0",
+    "node-gyp": "^10.0.1"
   },
   "files": [
     "index.js",
